@@ -16,6 +16,7 @@
 		E8123EB429BF2F9B008369B5 /* User_Default_Login_UygulamasiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8123EB329BF2F9B008369B5 /* User_Default_Login_UygulamasiTests.swift */; };
 		E8123EBE29BF2F9B008369B5 /* User_Default_Login_UygulamasiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8123EBD29BF2F9B008369B5 /* User_Default_Login_UygulamasiUITests.swift */; };
 		E8123EC029BF2F9B008369B5 /* User_Default_Login_UygulamasiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8123EBF29BF2F9B008369B5 /* User_Default_Login_UygulamasiUITestsLaunchTests.swift */; };
+		E8123ECD29BF3227008369B5 /* AnasayfaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8123ECC29BF3227008369B5 /* AnasayfaVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E8123EB929BF2F9B008369B5 /* User Default Login UygulamasiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "User Default Login UygulamasiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8123EBD29BF2F9B008369B5 /* User_Default_Login_UygulamasiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User_Default_Login_UygulamasiUITests.swift; sourceTree = "<group>"; };
 		E8123EBF29BF2F9B008369B5 /* User_Default_Login_UygulamasiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User_Default_Login_UygulamasiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E8123ECC29BF3227008369B5 /* AnasayfaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E8123EA529BF2F9B008369B5 /* Assets.xcassets */,
 				E8123EA729BF2F9B008369B5 /* LaunchScreen.storyboard */,
 				E8123EAA29BF2F9B008369B5 /* Info.plist */,
+				E8123ECC29BF3227008369B5 /* AnasayfaVC.swift */,
 			);
 			path = "User Default Login Uygulamasi";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8123ECD29BF3227008369B5 /* AnasayfaVC.swift in Sources */,
 				E8123EA129BF2F9B008369B5 /* ViewController.swift in Sources */,
 				E8123E9D29BF2F9B008369B5 /* AppDelegate.swift in Sources */,
 				E8123E9F29BF2F9B008369B5 /* SceneDelegate.swift in Sources */,
